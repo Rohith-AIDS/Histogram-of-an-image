@@ -99,7 +99,7 @@ equ_img = cv2.equalizeHist(gray_image)
 ![](RG_graph.png) <br>
 
 ## Histogram Equalization of Grayscale Image
-![](Eq_G_Hgraph.png) <br>
+![](EQ_G_Hgraph.png) <br>
 
 
 # Result: 
